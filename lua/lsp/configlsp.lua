@@ -1,0 +1,11 @@
+require('lsp.mason')
+require('lsp.mason-config')
+require('lsp.ui')
+
+require('lsp.config.clangd')
+require('lsp.config.jdtls')
+require('lsp.config.ltex')
+require('lsp.config.sumneko_lua')
+require('lsp.config.eslint')
+require('lsp.config.rust_analyzer')
+require('lsp.config.html')
